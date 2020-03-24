@@ -16,7 +16,5 @@ The paper can be found in [Baidu drive](https://pan.baidu.com/s/1hmRo3NvY2kugm1r
 
 ## Requirement
 Python 3.5
-
 Tensorflow 1.10 or higher
-
 [PyDenseCRF](https://github.com/lucasb-eyer/pydensecrf)
