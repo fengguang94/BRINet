@@ -14,7 +14,4 @@ If you use the code, please cite
 ## Paper link
 The paper can be found in [Baidu drive](https://pan.baidu.com/s/1hmRo3NvY2kugm1r6RQguIw) (fetch code:5606).
 
-## Requirement
-Python 3.5, 
-Tensorflow 1.10 or higher,
-[PyDenseCRF](https://github.com/lucasb-eyer/pydensecrf)
+The code will coming soon.
