@@ -17,22 +17,22 @@ The paper can be found in [Baidu drive](https://pan.baidu.com/s/1vD1z3eoH9p4CSvl
 
 ## Code
 
-## Requirement
+### Requirement
 - Python 3.5
 - Tensorflow 1.8
 - [PyDenseCRF](https://github.com/lucasb-eyer/pydensecrf)
 
-## Setup
+### Setup
 Partial coda and data preparation are borrowed from [TF-phrasecut-public](https://github.com/chenxi116/TF-phrasecut-public). Please follow their instructions to make your setup ready. DeepLab backbone network is based on [tensorflow-deeplab-resnet](https://github.com/DrSleep/tensorflow-deeplab-resnet) as well as the pretrained model for initializing weights of our model. 
 
-## Sample code
-### Training
+### Sample code
+#### Training
 ```
 python main_cmsa.py -m train -w deeplab -d Gref -t train -g 0 -i 800000
 ```
 
 
-### Testing 
+#### Testing 
 ```
 python main_cmsa.py -m test -w deeplab -d Gref -t val -g 0 -i 800000
 ```
