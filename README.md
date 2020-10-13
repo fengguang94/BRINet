@@ -23,7 +23,7 @@ The paper can be found in [Baidu drive](https://pan.baidu.com/s/1vD1z3eoH9p4CSvl
 - [PyDenseCRF](https://github.com/lucasb-eyer/pydensecrf)
 
 ### Setup
-Partial coda and data preparation are borrowed from [TF-phrasecut-public](https://github.com/chenxi116/TF-phrasecut-public). Please follow their instructions to make your setup ready. DeepLab backbone network is based on [tensorflow-deeplab-resnet](https://github.com/DrSleep/tensorflow-deeplab-resnet) as well as the pretrained model for initializing weights of our model. 
+Partial coda and data preparation are borrowed from [TF-phrasecut-public](https://github.com/chenxi116/TF-phrasecut-public). Please follow their instructions to make your setup ready. DeepLab backbone network is based on [TF-deeplab ](https://github.com/chenxi116/TF-deeplab) as well as the pretrained model for initializing weights of our model. 
 
 ### Sample code
 #### Training
