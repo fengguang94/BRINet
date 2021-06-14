@@ -4,11 +4,12 @@ This repository contains code for 'Bi-directional Relationship Inferring Network
 If you find this work useful in your research, please consider citing:
 
 ```
-@inproceedings{BRINet_CVPR2020,
-  author = {Hu, Zhiwei and Feng, Guang and Sun, Jiayu and Zhang, Lihe and Lu, Huchuan},
-  title = {Bi-directional Relationship Inferring Network for Referring Image Segmentation},
-  booktitle = {CVPR},
-  year = {2020}
+@inproceedings{hu2020bi,
+  title={Bi-directional relationship inferring network for referring image segmentation},
+  author={Hu, Zhiwei and Feng, Guang and Sun, Jiayu and Zhang, Lihe and Lu, Huchuan},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={4424--4433},
+  year={2020}
 }
 ```
 ## Paper link
