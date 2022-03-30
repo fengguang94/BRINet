@@ -1,5 +1,7 @@
-# BRINet for referring image segmentation
+# BRINet for referring image localization and segmentation
 This repository contains code for 'Bi-directional Relationship Inferring Network for Referring Image Segmentation', CVPR 2020.
+
+'Bidirectional Relationship Inferring Network for Referring Image Localization and Segmentation', TNNLS 2021
 
 If you find this work useful in your research, please consider citing:
 
