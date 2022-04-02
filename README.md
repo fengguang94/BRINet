@@ -26,7 +26,7 @@ If you find this work useful in your research, please consider citing:
 }
 ```
 ## Paper link
-The paper can be found in [Baidu drive](https://pan.baidu.com/s/1vD1z3eoH9p4CSvlCu5Xn6w) (fetch code:5606).
+The paper can be found in [paper](https://github.com/fengguang94/BRINet/tree/master/pdf).
 
 
 ## Code
