@@ -16,6 +16,15 @@ If you find this work useful in your research, please consider citing:
   year={2020}
 }
 ```
+```
+@article{feng2021bidirectional,
+  title={Bidirectional Relationship Inferring Network for Referring Image Localization and Segmentation},
+  author={Feng, Guang and Hu, Zhiwei and Zhang, Lihe and Sun, Jiayu and Lu, Huchuan},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2021},
+  publisher={IEEE}
+}
+```
 ## Paper link
 The paper can be found in [Baidu drive](https://pan.baidu.com/s/1vD1z3eoH9p4CSvlCu5Xn6w) (fetch code:5606).
 
